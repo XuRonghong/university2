@@ -1,0 +1,16 @@
+/* CSS Document */
+
+#tab_total {
+	font-family:"微軟正黑體";
+	font-size:small;
+	box-shadow:1px 1px 3px #ccc;
+	border-radius: 5px 5px 0px 0px;
+	border:#ccc 1px solid;		
+	margin-top:20px;
+}
+
+#tab_total tr td{
+	font-family:"微軟正黑體";
+	font-size:small;
+	padding: 5px;
+}

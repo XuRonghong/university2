@@ -1,0 +1,39 @@
+/* CSS Document */
+
+div#main #ul_single{
+	
+}
+div#main #ul_single li{	
+	list-style-type: none;
+	font-size:11pt;
+	
+	margin-top:10px;
+	text-align: left;
+}
+div#main #ul_single h5{
+	color:#336699;
+	font-size:medium;
+	width:100px;
+	float:left;
+	margin-left:10px;
+}
+div#main #ul_single #lng2 {
+	background-color: #ddd;
+	margin-left: 120px;
+	font-size:small;
+	width:150px;
+	height: 15px;
+}
+div#main #ul_single #lat2{
+	background-color: #ddd;
+	font-size:small;
+	width:150px;	
+	height: 15px;
+}
+
+div#map-canvas {
+	height: 480px;
+	width: 640px;
+	margin: 0 auto;
+	padding: 0px
+}

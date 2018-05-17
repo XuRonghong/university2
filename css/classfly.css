@@ -1,0 +1,27 @@
+/* CSS Document */
+
+#contain ul{
+	margin:10px;
+	padding:0px;
+	list-style-type: none;
+}
+#contain ul li{
+	margin-top:10px;
+}
+#contain ul.submenu{
+	display:none;	
+	margin-top: 10px;
+	margin-left:45px;
+	list-style-type:nono; 
+	color:#336699;
+}
+#contain .classflymenu a{
+	color:#336699; 
+	text-decoration:none; 
+	font-size:medium;
+	font-family:"微軟正黑體";
+}
+#contain .classflymenu a:hover{
+	text-decoration:none;
+	color:#99ccff; 
+}
